@@ -1,2 +1,2 @@
 # PrzykladSesjiEksploracyjnej
-Tu znajduje się przykład sesji eksploracyjnej w narzędziu Test & Feedback, który jest wtyczką do przeglądarki Google Chrom.
+Tu znajdują się przykłady sesji eksploracyjnych zrealizowanych za pomocą narzędzia Test & Feedback, które jest wtyczką do przeglądarki Google Chrom.
